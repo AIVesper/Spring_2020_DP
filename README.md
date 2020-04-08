@@ -5,3 +5,8 @@ This course discusses issues in principles of object-oriented design through des
 ### The purpose of this repository
 
 Backup my homework and code.
+
+
+### How to contact me?
+
+tszkin.rocks@gmail.com
