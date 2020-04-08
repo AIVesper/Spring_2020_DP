@@ -4,7 +4,7 @@ This course discusses issues in principles of object-oriented design through des
 
 ### The purpose of this repository
 
-Backup my homework and code.
+Backup my homeworks and codes.
 
 
 ### How to contact me?
