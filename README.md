@@ -1,4 +1,4 @@
-# Fall_2020_DP
+# Spring_2020_DP
 Store the codes for the courses I am taking at NTUT for the Spring 2020 semester.
 
 Course Name: Design Patterns
